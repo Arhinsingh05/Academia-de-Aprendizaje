@@ -1,2 +1,2 @@
 # Academia-de-Aprendizaje
-contiene cursos para elear el nivel de aprendizaje
+contiene cursos para elevar el nivel de aprendizaje
