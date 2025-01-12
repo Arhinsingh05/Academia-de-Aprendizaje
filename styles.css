@@ -67,17 +67,6 @@ nav {
     100% { transform: scale(1); }
 }
 
-h1,h2,h3,h4,h5,h6 {
-    background: linear-gradient(45deg, fuchsia, turquoise);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    text-align: center; /* Opcional: centra el texto */
-    padding: 10px; /* Espacio alrededor del texto */
-    border-radius: 5px; /* Esquinas redondeadas */
-    display: inline-block; /* Para ajustar el tamaño del fondo al texto */
-}
-
-
 /* Estilos de las secciones */
 section {
     padding: 30px;
@@ -236,3 +225,9 @@ body {
     -ms-user-select: none;
     user-select: none;
 }
+
+
+
+
+
+
