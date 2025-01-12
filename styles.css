@@ -227,7 +227,29 @@ body {
 }
 
 
+.welcome-message {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    position: relative;
+    animation: slideFade 4s infinite;
+}
 
-
-
-
+@keyframes slideFade {
+    0% {
+        opacity: 0;
+        transform: translate(0, 0);
+    }
+    25% {
+        opacity: 1;
+        transform: translate(-20px, -20px); /* 2 cm = 20px aproximadamente */
+    }
+    75% {
+        opacity: 1;
+        transform: translate(-20px, -20px);
+    }
+    100% {
+        opacity: 0;
+        transform: translate(0, 0);
+    }
+}
