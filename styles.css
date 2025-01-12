@@ -85,8 +85,11 @@ footer {
     background-color: turquoise;
     color: blue;
     text-align: center;
-    padding: 15px;
+    padding: 10px;
     width:100%;
+    position:fixed;
+    bottom:0;
+    left:o;
 }
 
 /* Responsive */
